@@ -1,7 +1,7 @@
 ## ME
 - 👋 Hi, I’m @Moatezz
 - 👀 I’m interested in Web Developing and Pen testing
-- 🌱 I’m currently learning new things
+- 🌱 MERN / Wordpress dev.
 - 💞️ I’m looking to collaborate on Web dev projects
 - 📫 How to reach me: moatezzchabane@gmail.com
 - 🚀 Going Hight and Fast
