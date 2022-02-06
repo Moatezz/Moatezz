@@ -1,6 +1,6 @@
 ## ME
 - 👋 Hi, I’m @Moatezz
-- 👀  Web Developing, Pen testing, Cryptography, AI
+- 👀  Web Apps Dev, Pen testing, Cryptography, AI
 - 🌱 MERN is the best.
 - 📫 How to reach me: moatezzchabane@gmail.com
 - 🚀 Going High and Fast
