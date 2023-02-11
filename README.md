@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Moatezz
 - 👀  Web Apps Dev, Pen testing, Cryptography, AI
 - 🌱 MERN is the best.
-- 📫 How to reach me: contact@moatezz.com
+- 📫 How to reach me: hi@moatezz.com
 - 🚀 Going High so Fast
 <!---
 Moatezz/Moatezz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
