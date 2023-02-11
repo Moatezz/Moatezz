@@ -1,7 +1,7 @@
 ## ME
 - 👋 Hi, I’m @Moatezz
 - 👀  Web Apps Dev, Pen testing, Cryptography, AI
-- 🌱 MERN is the best.
+- 🌱 React Full stack Node & Mobile.
 - 📫 How to reach me: hi@moatezz.com
 - 🚀 Going High so Fast
 <!---
